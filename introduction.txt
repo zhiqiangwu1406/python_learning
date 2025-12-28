@@ -1,1 +1,0 @@
-This is the basic crash course for python programming with the records stored using git.
